@@ -1,0 +1,5 @@
+node_modules
+.env
+admin-app/
+ecommerce-front-end/
+product picture/
